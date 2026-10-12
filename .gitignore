@@ -1,3 +1,4 @@
 node_modules
 dist
 *.local
+supabase/SETUP_LENGKAP.sql
